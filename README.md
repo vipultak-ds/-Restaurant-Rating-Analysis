@@ -39,7 +39,8 @@ This project analyzes a comprehensive dataset of **9,900+ restaurant entries acr
 ---
 
 ## 🛠️ Technologies Used
-- Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
+- Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`,`scikitLearn`and using machine learning models like
+- DecisionTree and RandomForest
 - Google Colab (cloud-based analysis)
 - Jupyter Notebook for reporting
 
