@@ -1,7 +1,6 @@
 # 🍽️ Restaurant Rating Analysis
 **Level 1 Data Science Project – Exploratory Data Analysis & Business Insights**
 
-![restaurant-analysis-banner](https://via.placeholder.com/1000x300.png?text=Restaurant+Rating+EDA+Project)
 
 ## 📌 Overview
 This project analyzes a comprehensive dataset of **9,900+ restaurant entries across 21 features**, with a primary focus on the **Indian restaurant landscape**. The goal is to uncover rating trends, handle data inconsistencies, and provide **business-ready insights** using EDA.
@@ -46,17 +45,6 @@ This project analyzes a comprehensive dataset of **9,900+ restaurant entries acr
 
 ---
 
-## 📊 Sample Visualizations
-
-> Replace the image links below with actual saved plots if available.
-
-**Rating Distribution**
-![rating-distribution](https://via.placeholder.com/600x300.png?text=Rating+Distribution)
-
-**Country-wise Restaurants**
-![country-wise-plot](https://via.placeholder.com/600x300.png?text=Country+wise+Restaurants)
-
----
 
 ## 🚀 Getting Started
 
